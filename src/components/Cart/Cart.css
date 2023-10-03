@@ -1,0 +1,10 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 20px;
+    background-color: #FF9900;
+}
+
+.cart p{
+    font-size: 17px;
+}
